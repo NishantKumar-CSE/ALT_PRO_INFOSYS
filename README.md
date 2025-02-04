@@ -1,4 +1,5 @@
 # Image Analyzer
+![ALT_TEXT_PRO](info.png)
 
 A powerful Flask application that analyzes images using AI to generate alt text, context, SEO descriptions, and social media captions.
 
